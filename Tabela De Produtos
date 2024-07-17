@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TABELA DE PRODUTOS</title>
+
+</head>
+<body bgcolor="white">
+    <table border="1">
+        <thead>
+
+            <tr>
+                <th colspan="4">PRODUTO A SER INSERIDO</th>
+            </tr>
+
+        </thead>
+        <tbody> 
+
+            <tr>
+                <th rowspan="2">MODELOS</th>
+                <td><img src="imagemx.jpg" width="250" height="250"></td>
+                <td><img src="imagemy.jpg" width="250" height="250"></td>
+                <td><img src="imagemz.jpg" width="250" height="250"></td>
+            </tr>
+
+            <tr>
+                <td>VERSÃO DO PRODUTO</td>
+                <td>VERSÃO DO PRODUTO</td>
+                <td>VERSÃO DO PRODUTO</td>
+            </tr>
+
+            <tr>
+             <th rowspan="1">VALORES</th>
+             <td>R$000,000 á R$000,000 </td>
+             <td>R$000,000  á R$000,000 </td>
+             <td>R$000,000  á R$000,000 </td>
+            </tr>
+
+            <tr>
+                <th rowspan="1">FABRICANTES</th>
+                <td>PRODUTO INSERIDO</td>
+                <td>PRODUTO INSERIDO</td>
+                <td>PRODUTO INSERIDO</td>
+               </tr>
+
+               <tr>
+                <th rowspan="1">ARQUITETURA DO PRODUTO</th>
+                <td>Informações sobre a arquitetura do produto inserido.</td>
+                <td>Informações sobre a arquitetura do produto inserido.</td>
+                <td>Informações sobre a arquitetura do produto inserido.</td>
+               </tr>
+
+               <tr>
+                <th rowspan="1">MEMORIA V RAM</th>
+                <td>Memória do Produto.</td>
+                <td>Memória do Produto.</td>
+                <td>Memória do Produto.</td>
+               </tr>
+
+               <tr>
+                <th rowspan="1">TECNOLOGIAS</th>
+                <td>Informações adicionais sobre os produtos.<td>
+               </tr>
+
+        </tbody>
+    </table>
+</body>
+</html
