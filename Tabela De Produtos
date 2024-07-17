@@ -44,14 +44,14 @@
                </tr>
 
                <tr>
-                <th rowspan="1">ARQUITETURA DO PRODUTO</th>
+                <th rowspan="1">ARQUITETURA</th>
                 <td>Informações sobre a arquitetura do produto inserido.</td>
                 <td>Informações sobre a arquitetura do produto inserido.</td>
                 <td>Informações sobre a arquitetura do produto inserido.</td>
                </tr>
 
                <tr>
-                <th rowspan="1">MEMORIA V RAM</th>
+                <th rowspan="1">MEMORIA</th>
                 <td>Memória do Produto.</td>
                 <td>Memória do Produto.</td>
                 <td>Memória do Produto.</td>
